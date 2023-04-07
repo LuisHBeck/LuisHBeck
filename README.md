@@ -26,6 +26,7 @@
 </div>
 
 <div align="center">
+    
 ### About me 👨‍🎓
 
 I'm Luís Beck, an technical apprentice in Digital Solutions at Bosch Campinas, and I'm in college as a Software Engineer at Uninter.
