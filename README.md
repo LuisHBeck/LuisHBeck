@@ -9,11 +9,9 @@
 
 <div style="display: flex; justify-content: space-between;">
 
-![BECK's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisHBeck&show_icons=true&theme=tokyonight)
+![BECK's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisHBeck&show_icons=true&theme=dark&hide_border=true&locale=en) 
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHBeck&layout=compact&theme=tokyonight&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHBeck&layout=compact&theme=dark&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 </div><br>
 
 
@@ -31,3 +29,4 @@
 I'm Luís Beck, an technical apprentice in Digital Solutions at Bosch Campinas, and I'm in college as a Software Engineer at Uninter.
 
 I like the world of technology and always try to improve my knowledge. I like backend development, and I am learning daily something new about this area.  
+
