@@ -7,9 +7,12 @@
 </div><br>
 
 
+<div style="border: none;">
+
 | STATS | LANGUAGES |
 | ------------ | ------------- |
 | <img src="https://github-readme-stats.vercel.app/api?username=LuisHBeck&show_icons=true&theme=dark&hide_border=true&locale=en" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHBeck&layout=compact&theme=dark&hide_border=true&locale=en" /> |
+</div>
 
 
 
