@@ -6,12 +6,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beck_luis_/)
 </div><br>
 
-<div style="display: flex;">
 
-![BECK's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisHBeck&show_icons=true&theme=dark&hide_border=true&locale=en) 
+| STATS | LANGUAGES |
+| ------------ | ------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=LuisHBeck&show_icons=true&theme=dark&hide_border=true&locale=en" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHBeck&layout=compact&theme=dark&hide_border=true&locale=en" /> |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHBeck&layout=compact&theme=dark&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-</div><br>
+
 
 <div align="center">
 
