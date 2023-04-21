@@ -37,5 +37,7 @@ I like the world of technology and always try to improve my knowledge. I like ba
 </div>
 
 <div align="center">
+    
 ![Snake animation](https://github.com/LuisHbeck/luishbeck/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
