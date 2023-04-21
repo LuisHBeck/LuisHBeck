@@ -36,8 +36,8 @@ I'm Luís Beck, an technical apprentice in Digital Solutions at Bosch Campinas, 
 I like the world of technology and always try to improve my knowledge. I like backend development, and I am learning daily something new about this area.  
 </div>
 
-<div align="center">
+<!-- <div align="center">
     
 ![Snake animation](https://github.com/luishbeck/luishbeck/blob/output/github-contribution-grid-snake.svg)
     
-</div>
+</div> -->
