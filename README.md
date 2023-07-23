@@ -2,8 +2,8 @@
 
 ### Hi there, I'm Beck! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luísbeck)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beck_luis_/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/luísbeck)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/beck_luis_/)
 </div><br>
 
 
@@ -28,14 +28,7 @@
 </div>
 </div>
 
-<div align="center">
 
-### About me 👨‍🎓
-
-I'm Luís Beck, an technical apprentice in Digital Solutions at Bosch Campinas, and I'm in college as a Software Engineer at Uninter.
-
-I like the world of technology and always try to improve my knowledge. I like backend development, and I am learning daily something new about this area.  
-</div>
 
 <!-- <div align="center">
     
