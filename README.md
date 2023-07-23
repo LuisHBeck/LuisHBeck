@@ -19,12 +19,13 @@
 <div align="center">
 
 ### Languages and Tools 🖥️
-<div style="display: inline_block">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-</div><br>
+<div align="center">
+	<p>
+  		<a>
+    			<img src="https://skillicons.dev/icons?i=py,java,django,js,react,github,&perline=6" width="50%" height="50%"/>
+  		</a>
+	</p>
+</div>
 </div>
 
 <div align="center">
