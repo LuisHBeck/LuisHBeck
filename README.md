@@ -22,16 +22,8 @@
 <div align="center">
 	<p>
   		<a>
-    			<img src="https://skillicons.dev/icons?i=py,django,js,react,java,github,&perline=6" width="50%" height="50%"/>
+    		<img src="https://skillicons.dev/icons?i=py,django,java,js,react,git,github,&perline=7" width="60%" height="60%"/>
   		</a>
 	</p>
 </div>
 </div>
-
-
-
-<!-- <div align="center">
-    
-![Snake animation](https://github.com/luishbeck/luishbeck/blob/output/github-contribution-grid-snake.svg)
-    
-</div> -->
