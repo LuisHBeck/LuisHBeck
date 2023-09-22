@@ -22,7 +22,7 @@
 <div align="center">
 	<p>
   		<a>
-    		<img src="https://skillicons.dev/icons?i=py,django,java,js,react,git,github,&perline=7" width="60%" height="60%"/>
+    		<img src="https://skillicons.dev/icons?i=py,django,java,ts,react,git,github,&perline=7" width="60%" height="60%"/>
   		</a>
 	</p>
 </div>
