@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <div style="display: flex; flex-direction: column; align-items: center;">
         <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
             <a href="https://portfolio-luishbeck.vercel.app/">
