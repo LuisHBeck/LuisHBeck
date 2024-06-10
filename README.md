@@ -18,7 +18,7 @@
         <div>
             <h3>Tools 🖥️</h3>
             <div>
-                <img src="https://skillicons.dev/icons?i=java,spring,docker,git,py,django,&perline=6" width="80%" height="80%" />
+                <img src="https://skillicons.dev/icons?i=java,spring,docker,git,py,django,&perline=6" width="60%" height="60%" />
             </div>
         </div>
     </div>
