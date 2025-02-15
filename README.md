@@ -1,7 +1,7 @@
 <div align="center">
     <div style="display: flex; flex-direction: column; align-items: center;">
         <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-                <h3>Hi there, <a href="https://portfolio-luishbeck.vercel.app/">I'm Beck!👋</a></h3>
+                <h3>Hi there, <a href="https://portfolio-luishbeck.vercel.app/">I'm Beck! 👋</a></h3>
             <a href="https://www.linkedin.com/in/luísbeck">
                 <img src="https://skillicons.dev/icons?i=linkedin" style="margin-right: 10px;" />
             </a>
