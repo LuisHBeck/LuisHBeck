@@ -11,7 +11,6 @@
         </div>
         <br>
         <div style="display: flex; justify-content: center;">
-            <img src="https://api.githubtrends.io/user/svg/LuisHBeck/repos?time_range=all_time&group=other&loc_metric=changed&theme=dark" style="margin-right: 10px;" />
             <img src="https://github-readme-stats.vercel.app/api?username=LuisHBeck&show_icons=true&theme=dark&hide_border=false&locale=en&include_private=true" style="margin-left: 10px;" />
         </div>
         <br>
