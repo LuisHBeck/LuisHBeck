@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
     <div style="display: flex; flex-direction: column; align-items: center;">
         <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
                 <h3>Hi there, <a href="https://portfolio-luishbeck.vercel.app/">I'm Beck!👋</a></h3>
@@ -21,4 +21,15 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LuisHBeck/github-readme/main/output/contribs-dark.svg"
+  />
+  <img
+    alt="Isometric GitHub contribution chart"
+    src="https://raw.githubusercontent.com/LuisHBeck/github-readme/main/output/contribs-light.svg"
+  />
+</picture>
